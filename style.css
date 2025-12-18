@@ -1,0 +1,30 @@
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: "Roboto"
+}
+
+header, footer {
+    background-color: #1F2937;
+    color: antiquewhite;
+    font:"Roboto"
+}
+a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+#section1 {
+    background-color: #1F2937;
+    color: antiquewhite;
+}
+
+button{
+    background-color: cornflowerblue;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+blockquote{
+    background-color: gainsboro
+}
