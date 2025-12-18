@@ -9,6 +9,7 @@ header, footer {
     color: antiquewhite;
     font:"Roboto"
 }
+
 a {
     color: antiquewhite;
     text-decoration: none;
@@ -19,7 +20,7 @@ a {
     color: antiquewhite;
 }
 
-button{
+button {
     background-color: cornflowerblue;
     font-weight: bold;
     color: antiquewhite;
