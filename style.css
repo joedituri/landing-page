@@ -33,3 +33,7 @@ blockquote{
 inner-column {
     padding: 10px   ;
 }
+
+outer-column {
+    padding: 10px;
+}
