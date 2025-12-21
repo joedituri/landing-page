@@ -1,7 +1,7 @@
-        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
-    font-family: "Roboto"
+    font-family: "Roboto";
 }
 
 header, footer {
@@ -13,9 +13,10 @@ header, footer {
 a {
     color: antiquewhite;
     text-decoration: none;
+    padding: 20px
 }
 
-section{
+.section1{
     background-color: #1F2937;
     color: antiquewhite;
 }
