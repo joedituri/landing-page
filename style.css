@@ -6,29 +6,35 @@ body {
 
 header, footer {
     background-color: #1F2937;
-    color: antiquewhite;
-    border: 5px;
+    color: white;
+
 }
 
+h2 {
+    text-align: center;
+}
 a {
-    color: antiquewhite;
+    color: white;
     text-decoration: none;
     padding: 20px
 }
 
 .section1{
     background-color: #1F2937;
-    color: antiquewhite;
+    color: white;
 }
 
 button {
     background-color: cornflowerblue;
     font-weight: bold;
-    color: antiquewhite;
+    color: white;
 }
 
 blockquote{
-    background-color: gainsboro
+    background-color: gainsboro;
+    padding: 50px;
+    font-style: italic;
+    
 }
 
 inner-column {
@@ -41,4 +47,9 @@ outer-column {
 
 .container {
     display: flex;
+}
+
+.bottom-section {
+    background-color: cornflowerblue;
+    color: white;
 }
