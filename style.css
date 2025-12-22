@@ -2,39 +2,45 @@
 
 body {
     font-family: "Roboto";
+    justify-content: center;
+    margin: 0%;
+
 }
 
 header, footer {
     background-color: #1F2937;
     color: white;
-
 }
 
 h2 {
     text-align: center;
 }
+
 a {
     color: white;
     text-decoration: none;
     padding: 20px
 }
 
-.section1{
+.section1   {
     background-color: #1F2937;
     color: white;
+    padding: 70px;
 }
 
 button {
     background-color: cornflowerblue;
     font-weight: bold;
     color: white;
+    border-color: white;
+    border-radius: 10px
 }
 
-blockquote{
-    background-color: gainsboro;
-    padding: 50px;
+blockquote  {
+    color: #1F2937;
+    font-size: 30px;
+    padding: 100px;
     font-style: italic;
-    
 }
 
 inner-column {
@@ -52,4 +58,20 @@ outer-column {
 .bottom-section {
     background-color: cornflowerblue;
     color: white;
+    padding: 20px;
+    justify-content: center;
+    
 }
+
+ul {
+    list-style-type: none;
+}
+
+.container > div {
+  flex: 1;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
